@@ -1,0 +1,39 @@
+nav{height:340px;
+width:440px;
+background:#1291B5;
+padding:40px 40px;
+font-family: 'Gafata', sans-serif;
+color:#495B61;
+
+}
+
+
+fieldset{float:right;
+border:none;
+width:240px;
+height:2300px;
+padding:40px;}
+
+input{margin:0 0 20px 0;
+float:right;
+width:250px;
+height:33px;
+font-size:13px;
+border-radius:5px;
+padding: 0 0 0 5px;}
+
+
+label{margin:0 0 20px 0;
+font-size:15px;
+padding:5px 5px 20px 5px;
+color:##495B61;}
+
+.button{height:60px;
+	background-color:#66AAC2;
+color:white;
+font-size:20px;
+text-transform:thin}
+
+fieldset label{padding:0 0 5px 0;
+font-size:20px;
+display:block;}
